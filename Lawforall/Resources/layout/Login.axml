@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@drawable/bk">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1"
+        android:background="#aa000000">
+        <TextView
+            android:text="Law For All"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:textSize="23dp" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout2"
+            android:gravity="bottom"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="45dp">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/edtUsername"
+                android:background="@drawable/shapeexemplo"
+                android:layout_marginBottom="18dp"
+                android:hint="Username"
+                android:textColorHint="#6E6978"
+                android:paddingLeft="15dp" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/edtPassword"
+                android:background="@drawable/shapeexemplo"
+                android:hint="Password"
+                android:textColorHint="#6E6978"
+                android:paddingLeft="15dp"
+                android:layout_marginBottom="18dp" />
+            <Button
+                android:text="Log in"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnLogin"
+                android:background="@drawable/shapelaranja"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp" />
+            <TextView
+                android:text="Create account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtCreate"
+                android:gravity="center"
+                android:layout_marginTop="25dp"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

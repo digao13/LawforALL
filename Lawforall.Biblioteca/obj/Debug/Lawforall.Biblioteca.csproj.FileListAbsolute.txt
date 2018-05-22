@@ -1,0 +1,11 @@
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\bin\Debug\Lawforall.Biblioteca.dll
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\bin\Debug\Lawforall.Biblioteca.pdb
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\bin\Debug\Lawforall.Biblioteca.apk
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\bin\Debug\Lawforall.Biblioteca-Signed.apk
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\Lawforall.Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\Lawforall.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\Lawforall.Biblioteca.dll
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\Lawforall.Biblioteca.pdb
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\android\bin\Lawforall.Biblioteca.apk
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\R.cs.flag
+C:\Users\digao\source\repos\Lawforall\Lawforall.Biblioteca\obj\Debug\uploadflags.txt
